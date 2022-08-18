@@ -1,0 +1,16 @@
+.bg-img1 {
+  background-color: #000;
+}
+.bg-img2 {
+  background-color: gold;
+}
+.bg-img3 {
+  background-color: aquamarine;
+}
+.container {
+  height: 300px;
+}
+
+#myCarousel {
+  margin-top: 55px;
+}
